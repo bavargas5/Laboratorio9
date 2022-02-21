@@ -1,1 +1,40 @@
 # Laboratorio9
+
+# 1. OBJETIVOS
+
+**General**
+
+
+
+**Específicos**
+
+
+
+# 2. MARCO TEÓRICO
+
+
+
+# 3. EXPLICACIÓN DEL PROCEDIMIENTO
+
+**MATERIALES**
+
+
+
+
+**PROCEDIMIENTO**
+
+
+
+# 4. RESPUESTA A INTERROGANTES Y CALCULO DEL ERROR
+
+
+
+# 5. VIDEO
+
+
+
+# 6. CONCLUSIONES
+
+
+
+# 7. BIBLIOGRAFÍA
