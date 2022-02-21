@@ -136,8 +136,8 @@ d) 45 ∠ -117.9° =
 | Ejercicio | Resultado calculado (Rectangular) | Resultado calculado (Polar) | Resultado mediante calculadora (Rectangular) | Resultado mediante calculadora (Polar) |
 | ------------- | ------------- | ------------- | ------------ | ------------ |
 | a) (10 + 3j)/ 2j - (7 + 2j)(3 ∠ -115°) | 4.95 + 16.58j | 17.30 ∠ 73.38° | 4.9371 + 16.5681j | 17.2881 ∠ 73.4065° |  
-| b) 28.7 ∠ 135° = |  |  |  |  | 
-| c) 11.2 ∠ 28° = |  |  |  |  |
+|  |  |  |  |  | 
+|  |  |  |  |  |
 
 # 4. RESPUESTA A INTERROGANTES Y CALCULO DEL ERROR
 
