@@ -18,7 +18,7 @@
 
 **MATERIALES**
 
-- Calculaoora científica 
+- Calculadora científica 
 
 ![](https://www.suescun.com.co/wp-content/uploads/2021/06/CALCULADORA-CIENTIFICA-CASIO-FX-570LA-PLUS-3.jpg)
 
