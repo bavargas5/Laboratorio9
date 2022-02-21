@@ -47,6 +47,12 @@ d) 45 ∠ -117.9° =
 
 
 
+
+**Resuelva las operaciones anteriores por medio de la calculadora y compare resultados.**
+
+
+
+
 # 4. RESPUESTA A INTERROGANTES Y CALCULO DEL ERROR
 
 
