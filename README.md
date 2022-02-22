@@ -4,15 +4,21 @@
 
 **General**
 
-
+Solucionar operaciones y conversiones con números complejos por medio de los métodos respectivos para su posterior interpretación.
 
 **Específicos**
 
+-	Aplicar el método respectivo para la conversión de forma rectangular a forma polar.
+
+-	Calcular operaciones con números complejos aplicando los conceptos y fórmulas respectivos.
+
+-	Utilizar una calculadora científica para la resolución y comprobación de los resultados.
 
 
 # 2. MARCO TEÓRICO
 
 ![](https://github.com/bavargas5/Laboratorio9/blob/main/IMG%20BN/Diagrama%20en%20blanco%20(19).png)
+
 
 
 # 3. EXPLICACIÓN DEL PROCEDIMIENTO
