@@ -153,6 +153,13 @@ d) 45 ∠ -117.9° =
 
 ![](https://github.com/bavargas5/Laboratorio9/blob/main/IMG%20BV/19.png)
 
+![](https://github.com/bavargas5/Laboratorio9/blob/main/IMG%20AR/C3_B1.JPG)
+
+![](https://github.com/bavargas5/Laboratorio9/blob/main/IMG%20AR/C3_B2.JPG)
+
+![](https://github.com/bavargas5/Laboratorio9/blob/main/IMG%20AR/C3_B3.JPG)
+
+![](https://github.com/bavargas5/Laboratorio9/blob/main/IMG%20AR/C3_B4.JPG)
 
 ![](https://github.com/bavargas5/Laboratorio9/blob/main/IMG%20BN/5.PNG)
 
