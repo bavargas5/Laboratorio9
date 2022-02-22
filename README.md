@@ -19,7 +19,7 @@ Solucionar operaciones y conversiones con números complejos por medio de los m�
 
 ![](https://github.com/bavargas5/Laboratorio9/blob/main/IMG%20BN/Diagrama%20en%20blanco%20(20).png)
 
-
+![](https://github.com/bavargas5/Laboratorio9/blob/main/IMG%20AR/N%20Complejos.png)
 
 # 3. EXPLICACIÓN DEL PROCEDIMIENTO
 
