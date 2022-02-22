@@ -82,6 +82,16 @@ d) 45 ∠ -117.9° =
 
 ![](https://github.com/bavargas5/Laboratorio9/blob/main/IMG%20AR/E3_B2.JPG)
 
+
+
+![](https://github.com/bavargas5/Laboratorio9/blob/main/IMG%20BN/5.PNG)
+
+![](https://github.com/bavargas5/Laboratorio9/blob/main/IMG%20BN/6.PNG)
+
+![](https://github.com/bavargas5/Laboratorio9/blob/main/IMG%20BN/7.PNG)
+
+![](https://github.com/bavargas5/Laboratorio9/blob/main/IMG%20BN/8.PNG)
+
 **Resuelva las operaciones anteriores por medio de la calculadora y compare resultados.**
 
 - **Transforme a su forma polar:**
@@ -139,6 +149,11 @@ d) 45 ∠ -117.9° =
 
 ![](https://github.com/bavargas5/Laboratorio9/blob/main/IMG%20BV/19.png)
 
+
+![](https://github.com/bavargas5/Laboratorio9/blob/main/IMG%20BN/11.PNG)
+
+![](https://github.com/bavargas5/Laboratorio9/blob/main/IMG%20BN/12.PNG)
+
 **RECOPILACIÓN DE RESULTADOS**
 
 **Transforme a su forma polar:**
@@ -156,8 +171,8 @@ d) 45 ∠ -117.9° =
 | ------------- | ------------- | ------------- | 
 | a) 36 ∠ -10° = | 35.45 - 6.25j | 35.4530 - 6.2513j |  
 | b) 28.7 ∠ 135° = |  |  |  
-| c) 11.2 ∠ 28° = |  |  |  
-| d) 45 ∠ -117.9° = |  |  |  
+| c) 11.2 ∠ 28° = |9.88+j5.26  | 9.88+5.25j  |  
+| d) 45 ∠ -117.9° = | -21.06-j39.77 |  -21.0568-39.769j|  
 
 **Realice las siguientes operaciones paso a paso, y represente el resultado tanto en su forma rectangular como en su forma polar.**
 
@@ -165,7 +180,7 @@ d) 45 ∠ -117.9° =
 | ------------- | ------------- | ------------- | ------------ | ------------ |
 | a) (10 + 3j)/ 2j - (7 + 2j)(3 ∠ -115°) | 4.95 + 16.58j | 17.30 ∠ 73.38° | 4.9371 + 16.5681j | 17.2881 ∠ 73.4065° |  
 |  |  |  |  |  | 
-|  |  |  |  |  |
+|c) (34+28.5j)/(4<-20.8)-(51.2<-215) |47.355-j19.789  |51.32<22.679  | 47.356-19.688j |51.286-22.574j  |
 
 # 4. RESPUESTA A INTERROGANTES Y CALCULO DEL ERROR
 
