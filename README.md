@@ -40,7 +40,7 @@ c) 4.3 - 2.8j =
 
 d) -6 - 3.2j =
 
-
+![](https://github.com/bavargas5/Laboratorio9/blob/main/IMG%20AR/E1_D1.JPG)
 
 **Transforme a su forma rectangular:**
 
