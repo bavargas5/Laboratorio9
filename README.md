@@ -201,6 +201,8 @@ d) 45 ∠ -117.9° =
 | b) (6.8 ∠ 125.3°) + (4.5 ∠ -11.5°)/(7.6 - j1.2) | -3.34 + j5.52 | 6.45 ∠ 121.17° | -3.3451 + 5.5239j | 6.4579 ∠ 121.1979° | 
 | c) (34+28.5j)/(4<-20.8)-(51.2<-215) |47.355-j19.789  |51.32 ∠ -22.679°  | 47.356 - 19.688j |51.286 ∠ -22.574°  |
 
+**Los resultados obtenidos con la calculadora son practicamente iguales a los calculados manualmente**
+
 # 4. RESPUESTA A INTERROGANTES Y CALCULO DEL ERROR
 
 Se observa claramente como el porcentaje de error para los datos calculados mediante el uso de las fórmulas respectivas y los resultados calculados mediante una calculadora científica no varían demasiado, la gran diferencia es que en la calculadora se utilizan valores más exactos modificando únicamente los resultados en el orden de las centésimas a los valores calculados manualmente.
