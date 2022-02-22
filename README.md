@@ -207,10 +207,15 @@ d) 45 ∠ -117.9° =
 
 # 5. VIDEO
 
-
+https://youtu.be/q6DRbvCFEXk
 
 # 6. CONCLUSIONES
 
+-	En conclusión, los números complejos son de gran utilidad para la representación de fasores tanto en forma polar como rectangular, haciendo fácil el análisis de lo que representa en una señal de onda seno.
+
+-	Resolver operaciones con números complejos permiten una mayor familiarización para su posterior aplicación en la resolución de circuitos con fasores.
+
+-	Al utilizar la calculadora científica para la conversión de números complejos se obtiene valores mucho más exactos donde directamente el resultado en forma polar ya contiene su ángulo respecto al eje positivo, facilitando al análisis del fasor.
 
 
 # 7. BIBLIOGRAFÍA
