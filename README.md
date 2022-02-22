@@ -150,6 +150,8 @@ d) 45 ∠ -117.9° =
 ![](https://github.com/bavargas5/Laboratorio9/blob/main/IMG%20BV/19.png)
 
 
+![](https://github.com/bavargas5/Laboratorio9/blob/main/IMG%20BN/5.PNG)
+
 ![](https://github.com/bavargas5/Laboratorio9/blob/main/IMG%20BN/11.PNG)
 
 ![](https://github.com/bavargas5/Laboratorio9/blob/main/IMG%20BN/12.PNG)
