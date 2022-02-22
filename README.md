@@ -221,3 +221,5 @@ https://youtu.be/q6DRbvCFEXk
 
 
 # 7. BIBLIOGRAFÍA
+
+-Floyd, T. L. (2021). Principios De Circuitos Electricos C/Cd Rom (8.a ed.). PRENTICE HALL/PEARSON.
