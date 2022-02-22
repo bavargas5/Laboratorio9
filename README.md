@@ -17,7 +17,7 @@ Solucionar operaciones y conversiones con números complejos por medio de los m�
 
 # 2. MARCO TEÓRICO
 
-![](https://github.com/bavargas5/Laboratorio9/blob/main/IMG%20BN/Diagrama%20en%20blanco%20(19).png)
+![](https://github.com/bavargas5/Laboratorio9/blob/main/IMG%20BN/Diagrama%20en%20blanco%20(20).png)
 
 
 
