@@ -68,6 +68,10 @@ d) 45 ∠ -117.9° =
 
 ![](https://github.com/bavargas5/Laboratorio9/blob/main/IMG%20BV/7.png)
 
+![](https://github.com/bavargas5/Laboratorio9/blob/main/IMG%20AR/E3_B1.JPG)
+
+![](https://github.com/bavargas5/Laboratorio9/blob/main/IMG%20AR/E3_B2.JPG)
+
 **Resuelva las operaciones anteriores por medio de la calculadora y compare resultados.**
 
 - **Transforme a su forma polar:**
@@ -104,11 +108,11 @@ a) 36 ∠ -10° =
 
 b) 28.7 ∠ 135° =
 
-![](https://github.com/bavargas5/Laboratorio9/blob/main/IMG%20AR/E3_B1.JPG)
+
 
 c) 11.2 ∠ 28° =
 
-![](https://github.com/bavargas5/Laboratorio9/blob/main/IMG%20AR/E3_B2.JPG)
+
 
 d) 45 ∠ -117.9° =
 
