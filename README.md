@@ -114,7 +114,11 @@ b) -8 + 6.2j =
 
 c) 4.3 - 2.8j =
 
+![](https://github.com/bavargas5/Laboratorio9/blob/main/IMG%20AR/C1_C.JPG)
+
 d) -6 - 3.2j =
+
+![](https://github.com/bavargas5/Laboratorio9/blob/main/IMG%20AR/C1_D.JPG)
 
 - **Transforme a su forma rectangular:**
 
@@ -128,7 +132,7 @@ a) 36 ∠ -10° =
 
 b) 28.7 ∠ 135° =
 
-
+![](https://github.com/bavargas5/Laboratorio9/blob/main/IMG%20AR/C2_B.JPG)
 
 c) 11.2 ∠ 28° =
 
