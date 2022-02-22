@@ -12,6 +12,7 @@
 
 # 2. MARCO TEÓRICO
 
+![](https://github.com/bavargas5/Laboratorio9/blob/main/IMG%20BN/Diagrama%20en%20blanco%20(19).png)
 
 
 # 3. EXPLICACIÓN DEL PROCEDIMIENTO
@@ -54,7 +55,16 @@ b) 28.7 ∠ 135° =
 
 c) 11.2 ∠ 28° =
 
+![](https://github.com/bavargas5/Laboratorio9/blob/main/IMG%20BN/2.PNG)
+
+
+![](https://github.com/bavargas5/Laboratorio9/blob/main/IMG%20BN/1.PNG)
+
 d) 45 ∠ -117.9° =
+
+![](https://github.com/bavargas5/Laboratorio9/blob/main/IMG%20BN/3.PNG)
+
+![](https://github.com/bavargas5/Laboratorio9/blob/main/IMG%20BN/4.PNG)
 
 **Realice las siguientes operaciones paso a paso, y represente el resultado tanto en su forma rectangular como en su forma polar.**
 
@@ -112,9 +122,12 @@ b) 28.7 ∠ 135° =
 
 c) 11.2 ∠ 28° =
 
-
+![](https://github.com/bavargas5/Laboratorio9/blob/main/IMG%20BN/9.PNG)
 
 d) 45 ∠ -117.9° =
+
+![](https://github.com/bavargas5/Laboratorio9/blob/main/IMG%20BN/10.PNG)
+
 
 - **Realice las siguientes operaciones paso a paso, y represente el resultado tanto en su forma rectangular como en su forma polar.**
 
